@@ -23,7 +23,7 @@
 pip install -r requirements.txt
 2. Start the backend
 bash
-python stocksense_backend.py
+python run_stocksense.py
 Wait for: FinBERT ready. then Running on http://localhost:5050
 
 3. Open the frontend
