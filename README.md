@@ -6,7 +6,7 @@
 
 ## 📦 What's Inside?
 
-- Random Forest ML predictions (63%-89% accuracy)
+- Random Forest ML predictions
 - FinBERT sentiment analysis on live news
 - Technical indicators (RSI, MACD, SMA50, SMA200)
 - Portfolio tracker with P&L
