@@ -27,7 +27,9 @@ pip install yfinance
 pip install --upgrade yfinance
 
 bash
-python run_stocksense.py
+python stocksense_backend.py
+then the frontend file.
+"python agent.py" for the armoriqio and the claw integration.
 
 # ⚠️ IMPORTANT: Python 3.11 or 3.12 REQUIRED
 
